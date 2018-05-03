@@ -1,0 +1,7 @@
+---
+applications:
+- name: dbApp1
+  path: target/dbApp.jar
+  domain: cfapps.io
+  memory: 1024m
+  instances: 1
